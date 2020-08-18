@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "Tetris",
+  "id": "30902f79-a8e5-43f0-95ba-3ecd00dc4be5",
+  "version": "2.4.2",
+  "isNew": false
+}
