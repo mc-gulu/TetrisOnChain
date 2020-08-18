@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3664449575
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetbundle.ray
+      Dependencies: {}

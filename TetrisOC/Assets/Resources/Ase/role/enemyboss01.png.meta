@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 3b6c9eef2bccf460fb2cb6c7e358eaca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4139879931742570408
+    second: enemyboss01_0
+  - first:
+      213: -1594280516671953939
+    second: enemyboss01_1
+  - first:
+      213: 1872359131708498599
+    second: enemyboss01_2
+  - first:
+      213: 3394657210230684634
+    second: enemyboss01_3
+  - first:
+      213: -206175101517508154
+    second: enemyboss01_4
+  - first:
+      213: -9072929328145385638
+    second: enemyboss01_5
+  - first:
+      213: -4459261573977130801
+    second: enemyboss01_6
+  - first:
+      213: -7202630699202458876
+    second: enemyboss01_7
+  - first:
+      213: 2959055910076820544
+    second: enemyboss01_8
+  - first:
+      213: 7354427906632704150
+    second: enemyboss01_9
+  - first:
+      213: 5077321691518339292
+    second: enemyboss01_10
+  - first:
+      213: -6717304255410886436
+    second: enemyboss01_11
+  - first:
+      213: 2268847187454545206
+    second: enemyboss01_12
+  - first:
+      213: 3789581530948686887
+    second: enemyboss01_13
+  - first:
+      213: 5129250397643321921
+    second: enemyboss01_14
+  - first:
+      213: -8707497003596279794
+    second: enemyboss01_15
+  - first:
+      213: 309685612720645595
+    second: enemyboss01_16
+  - first:
+      213: 7887871211912484630
+    second: enemyboss01_17
+  - first:
+      213: 3119740516901455652
+    second: enemyboss01_18
+  - first:
+      213: -2837006914345327722
+    second: enemyboss01_19
+  - first:
+      213: -2741503515271079889
+    second: enemyboss01_20
+  - first:
+      213: -6031800839262721071
+    second: enemyboss01_21
+  - first:
+      213: 5320628299617720307
+    second: enemyboss01_22
+  - first:
+      213: 5150380475864839928
+    second: enemyboss01_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemyboss01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85837b7d2213c86c0800000000000000
+      internalID: -4139879931742570408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 93
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de32173215affd9e0800000000000000
+      internalID: -1594280516671953939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 95
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a179c5b4fbf910800000000000000
+      internalID: 1872359131708498599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 95
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb40e3fbe3c1f20800000000000000
+      internalID: 3394657210230684634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 93
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1d48866d4832df0800000000000000
+      internalID: -206175101517508154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 95
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57bba3b8da761280800000000000000
+      internalID: -9072929328145385638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 69
+        width: 95
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc83b8289358d12c0800000000000000
+      internalID: -4459261573977130801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 69
+        width: 97
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49999997, y: -0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bc6bd4a8d1b0c90800000000000000
+      internalID: -7202630699202458876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 69
+        width: 93
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c26a62cada01920800000000000000
+      internalID: 2959055910076820544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 69
+        width: 93
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.078125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690ef05373d201660800000000000000
+      internalID: 7354427906632704150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 95
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd806597d25467640800000000000000
+      internalID: 5077321691518339292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 138
+        width: 81
+        height: 60
+      alignment: 9
+      pivot: {x: 0.52469134, y: -0.033333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8a3089e5757c2a0800000000000000
+      internalID: -6717304255410886436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 138
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49999997, y: -0.09375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d4fd10f709c7f10800000000000000
+      internalID: 2268847187454545206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 138
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49999997, y: -0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724d397035c479430800000000000000
+      internalID: 3789581530948686887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 138
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49999997, y: -0.015625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142bf8b8f02ce2740800000000000000
+      internalID: 5129250397643321921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009dd90c91c82780800000000000000
+      internalID: -8707497003596279794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 205
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49999997, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5634a8c693c4400800000000000000
+      internalID: 309685612720645595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 205
+        width: 79
+        height: 69
+      alignment: 9
+      pivot: {x: 0.51265824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d2145319577d60800000000000000
+      internalID: 7887871211912484630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 205
+        width: 107
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49999997, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4270e45987b8b4b20800000000000000
+      internalID: 3119740516901455652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 277
+        width: 99
+        height: 64
+      alignment: 9
+      pivot: {x: 0.510101, y: -0.046875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693ae151e3de0a8d0800000000000000
+      internalID: -2837006914345327722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 277
+        width: 99
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.046875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2858c5f31934f9d0800000000000000
+      internalID: -2741503515271079889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 277
+        width: 99
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dba7d3381dba4ca0800000000000000
+      internalID: -6031800839262721071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 277
+        width: 99
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7da94af3ba6d940800000000000000
+      internalID: 5320628299617720307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemyboss01_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 277
+        width: 99
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: -0.03125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6f70241c3d97740800000000000000
+      internalID: 5150380475864839928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

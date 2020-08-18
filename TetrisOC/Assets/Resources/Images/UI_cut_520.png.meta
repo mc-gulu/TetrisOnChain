@@ -1,0 +1,4823 @@
+fileFormatVersion: 2
+guid: 15a797645783a4c3785e7ab16757af8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1215275451971998609
+    second: UI_cut_520_0
+  - first:
+      213: -6034322890609930565
+    second: UI_cut_520_1
+  - first:
+      213: -4656875956490552060
+    second: bg_UI_cut_520_2
+  - first:
+      213: -1990737518019653853
+    second: UI_cut_520_3
+  - first:
+      213: -2516289206698425943
+    second: UI_cut_520_select_bg
+  - first:
+      213: 2650771749589622651
+    second: UI_cut_520_5
+  - first:
+      213: -4168823578560807711
+    second: UI_cut_520_6
+  - first:
+      213: 2341025400854584620
+    second: UI_cut_520_7
+  - first:
+      213: -4048069632497137873
+    second: UI_cut_520_8
+  - first:
+      213: 7234385967252291109
+    second: UI_cut_520_9
+  - first:
+      213: 1543191930281233760
+    second: bg_UI_cut_520_10
+  - first:
+      213: -3531344966156611178
+    second: UI_cut_520_11
+  - first:
+      213: 786166259578084250
+    second: UI_cut_520_12
+  - first:
+      213: -5723639767454232261
+    second: UI_cut_520_13
+  - first:
+      213: -153403839754300170
+    second: UI_cut_520_14
+  - first:
+      213: 6899002138826787753
+    second: UI_cut_520_15
+  - first:
+      213: -4367113620027617629
+    second: UI_cut_520_16
+  - first:
+      213: 2315254566701026564
+    second: UI_cut_520_17
+  - first:
+      213: -7098504689249589263
+    second: UI_cut_520_18
+  - first:
+      213: 6835989110057347496
+    second: UI_cut_520_19
+  - first:
+      213: -8106868650679645366
+    second: UI_cut_520_20
+  - first:
+      213: 1732838442704556910
+    second: UI_cut_520_21
+  - first:
+      213: -6545825984706805166
+    second: UI_cut_520_22
+  - first:
+      213: -8019167000166236427
+    second: UI_cut_520_23
+  - first:
+      213: 2610943636015168216
+    second: UI_cut_520_24
+  - first:
+      213: 3405581932872161594
+    second: btn_UI_cut_520_25
+  - first:
+      213: 3686405089290967810
+    second: btn_UI_cut_520_26
+  - first:
+      213: -8207342758738319799
+    second: UI_cut_520_27
+  - first:
+      213: -8739812136055670126
+    second: btn_UI_cut_520_28
+  - first:
+      213: 8034654943650246246
+    second: btn_UI_cut_520_29
+  - first:
+      213: 7126469460088553758
+    second: bg_UI_cut_520_30
+  - first:
+      213: -6923788922018514741
+    second: UI_cut_520_31
+  - first:
+      213: 2323346982421658354
+    second: UI_cut_520_32
+  - first:
+      213: -6734506608940513478
+    second: bg_UI_cut_520_33
+  - first:
+      213: -2275535721969635067
+    second: bg_UI_cut_520_34
+  - first:
+      213: -3509111468339067433
+    second: bg_UI_cut_520_35
+  - first:
+      213: -5238258353771163433
+    second: UI_cut_520_36
+  - first:
+      213: 7685473402201168446
+    second: UI_cut_520_37
+  - first:
+      213: -4201079211433379219
+    second: UI_cut_520_38
+  - first:
+      213: 4780193541112905015
+    second: bg_UI_cut_520_39
+  - first:
+      213: -7597068696871093372
+    second: UI_cut_520_40
+  - first:
+      213: 563200003496267764
+    second: UI_cut_520_41
+  - first:
+      213: -1469305843084173684
+    second: bg_UI_cut_520_42
+  - first:
+      213: -7436414670912859241
+    second: UI_cut_520_43
+  - first:
+      213: -8881833117939777716
+    second: UI_cut_520_44
+  - first:
+      213: -6589071155568415288
+    second: UI_cut_520_45
+  - first:
+      213: 5703784543938902660
+    second: UI_cut_520_46
+  - first:
+      213: 7094401372617421169
+    second: UI_cut_520_47
+  - first:
+      213: -9209825502561513539
+    second: btn_UI_cut_520_48
+  - first:
+      213: 8550653987639952496
+    second: UI_cut_520_49
+  - first:
+      213: -339072584191970680
+    second: UI_cut_520_50
+  - first:
+      213: -6755406141476501212
+    second: UI_cut_520_51
+  - first:
+      213: -5006961763211316091
+    second: UI_cut_520_52
+  - first:
+      213: 181106036723096544
+    second: UI_cut_520_53
+  - first:
+      213: 5802637727497439012
+    second: btn_UI_cut_520_54
+  - first:
+      213: -8450861620846402910
+    second: btn_UI_cut_520_55
+  - first:
+      213: 7587585446547029658
+    second: UI_cut_520_56
+  - first:
+      213: 9060795291042363661
+    second: UI_cut_520_57
+  - first:
+      213: -835561181927968554
+    second: UI_cut_520_58
+  - first:
+      213: 1553819921965895162
+    second: UI_cut_520_59
+  - first:
+      213: -5435889366364625035
+    second: UI_cut_520_60
+  - first:
+      213: -6495800329893252321
+    second: bg_UI_cut_520_61
+  - first:
+      213: 1085291203733054795
+    second: UI_cut_520_62
+  - first:
+      213: 6335978745740101078
+    second: UI_cut_520_63
+  - first:
+      213: -9178729997299303553
+    second: UI_cut_520_64
+  - first:
+      213: -574232024614215380
+    second: UI_cut_520_65
+  - first:
+      213: 2795413344494677374
+    second: UI_cut_520_66
+  - first:
+      213: -380298073558555299
+    second: UI_cut_520_67
+  - first:
+      213: 3368833099800162411
+    second: UI_cut_520_68
+  - first:
+      213: -935692303169227822
+    second: btn_UI_cut_520_69
+  - first:
+      213: -3888533070067746421
+    second: UI_cut_520_70
+  - first:
+      213: 6993559228005823102
+    second: UI_cut_520_71
+  - first:
+      213: -5771141995474731230
+    second: UI_cut_520_72
+  - first:
+      213: -7595670037283810603
+    second: UI_cut_520_73
+  - first:
+      213: 7111036967038119770
+    second: UI_cut_520_74
+  - first:
+      213: -5604802994436240706
+    second: UI_cut_520_75
+  - first:
+      213: -1533435151060533039
+    second: UI_cut_520_76
+  - first:
+      213: 544697800784291239
+    second: UI_cut_520_38
+  - first:
+      213: 3208441057840575059
+    second: bg_UI_cut_520_39
+  - first:
+      213: 2259268621934472134
+    second: UI_cut_520_41
+  - first:
+      213: -4510757526065443689
+    second: UI_cut_520_77
+  - first:
+      213: 5962680726397489246
+    second: UI_cut_520_78
+  - first:
+      213: 7811409120711350203
+    second: UI_cut_520_79
+  - first:
+      213: 7174126741178954138
+    second: UI_cut_520_80
+  - first:
+      213: -2475619519110754941
+    second: UI_cut_520_81
+  - first:
+      213: 7350085522592270526
+    second: UI_cut_520_82
+  - first:
+      213: -4797875385908143959
+    second: UI_cut_520_83
+  - first:
+      213: 1526401523891398079
+    second: UI_cut_520_84
+  - first:
+      213: 9153655734155717738
+    second: UI_cut_520_85
+  - first:
+      213: 2199005415513958689
+    second: UI_cut_520_86
+  - first:
+      213: 2810207778187665764
+    second: UI_cut_520_87
+  - first:
+      213: -5823203628287947393
+    second: btn_UI_cut_520_88
+  - first:
+      213: -3453128897059460168
+    second: btn_UI_cut_520_89
+  - first:
+      213: -5908632916376832351
+    second: btn_UI_cut_520_90
+  - first:
+      213: 3167721355762241482
+    second: UI_cut_520_91
+  - first:
+      213: 4087862268457599691
+    second: UI_cut_520_92
+  - first:
+      213: 6149625443410764299
+    second: UI_cut_520_93
+  - first:
+      213: 1608118542653697108
+    second: UI_cut_520_94
+  - first:
+      213: 4972928459438875654
+    second: UI_cut_520_95
+  - first:
+      213: 7416903885244451707
+    second: UI_cut_520_96
+  - first:
+      213: -454716747325180447
+    second: UI_cut_520_97
+  - first:
+      213: 4285663616454444298
+    second: UI_cut_520_98
+  - first:
+      213: 5684151456865597774
+    second: UI_cut_520_99
+  - first:
+      213: 3199878828673104909
+    second: bg_UI_cut_520_100
+  - first:
+      213: 3354230450162207929
+    second: btn_UI_cut_520_970
+  - first:
+      213: 2004347149414546353
+    second: btn_UI_cut_520_102
+  - first:
+      213: -5492854550941457109
+    second: bg_UI_cut_520_103
+  - first:
+      213: 867668512976761691
+    second: UI_cut_520_104
+  - first:
+      213: 8096239043203330464
+    second: UI_cut_520_105
+  - first:
+      213: -4666697909528083086
+    second: UI_cut_520_106
+  - first:
+      213: 968996277136519913
+    second: btn_UI_cut_520_107
+  - first:
+      213: 8782647527430549358
+    second: btn_UI_cut_520_108
+  - first:
+      213: -8234705331126279029
+    second: bg_UI_cut_520_109
+  - first:
+      213: 5580189152232159101
+    second: UI_cut_520_110
+  - first:
+      213: -8503368522316503405
+    second: UI_cut_520_111
+  - first:
+      213: -6852665119742460513
+    second: btn_UI_cut_520_112
+  - first:
+      213: 703221145529798607
+    second: UI_cut_520_113
+  - first:
+      213: -6150244195547997383
+    second: UI_cut_520_114
+  - first:
+      213: -5667728630608681513
+    second: UI_cut_520_115
+  - first:
+      213: -2484972263531795172
+    second: UI_cut_520_116
+  - first:
+      213: 3357235122700925574
+    second: UI_cut_520_117
+  - first:
+      213: -8345086088725526641
+    second: UI_cut_520_118
+  - first:
+      213: 7467348712524521160
+    second: UI_cut_520_119
+  - first:
+      213: -2521486755111313686
+    second: UI_cut_520_120
+  - first:
+      213: -7316129284147816557
+    second: UI_cut_520_121
+  - first:
+      213: 6438560987256337512
+    second: UI_cut_520_122
+  - first:
+      213: -8230348866099945457
+    second: UI_cut_520_123
+  - first:
+      213: -1905968499603470792
+    second: UI_cut_520_124
+  - first:
+      213: 8913805664300772706
+    second: UI_cut_520_125
+  - first:
+      213: 7686161992683727391
+    second: UI_cut_520_126
+  - first:
+      213: 1906528610482335161
+    second: UI_cut_520_127
+  - first:
+      213: -37330229925696910
+    second: UI_cut_520_128
+  - first:
+      213: -1014393184902286988
+    second: UI_cut_520_129
+  - first:
+      213: -3447045260707323246
+    second: UI_cut_520_130
+  - first:
+      213: -1231563085630190085
+    second: UI_cut_520_131
+  - first:
+      213: 6401094639553424270
+    second: UI_cut_520_132
+  - first:
+      213: -7907509815658763191
+    second: btn_UI_cut_520_133
+  - first:
+      213: -5086890019216329313
+    second: bg_UI_cut_520_134
+  - first:
+      213: -8067920536820368683
+    second: UI_cut_520_135
+  - first:
+      213: -6007582234137969866
+    second: UI_cut_520_136
+  - first:
+      213: 192051706394486884
+    second: UI_cut_520_137
+  - first:
+      213: 4421312676782207955
+    second: UI_cut_520_138
+  - first:
+      213: 6182684477108993403
+    second: UI_cut_520_139
+  - first:
+      213: -2916862541262667737
+    second: UI_cut_520_140
+  - first:
+      213: -2257390743471481179
+    second: UI_cut_520_141
+  - first:
+      213: -8538505548750912699
+    second: UI_cut_520_142
+  - first:
+      213: 733163387496491089
+    second: UI_cut_520_143
+  - first:
+      213: 3225888580969878120
+    second: UI_cut_520_144
+  - first:
+      213: 7137342390792865774
+    second: UI_cut_520_145
+  - first:
+      213: -5318486196290033791
+    second: UI_cut_520_146
+  - first:
+      213: 9095751150513459045
+    second: UI_cut_520_147
+  - first:
+      213: -1481941079746733759
+    second: UI_cut_520_148
+  - first:
+      213: 6513163650159169068
+    second: UI_cut_520_149
+  - first:
+      213: 849847528919427427
+    second: UI_cut_520_150
+  - first:
+      213: -6399324180339981709
+    second: UI_cut_520_151
+  - first:
+      213: 6928867019826347749
+    second: bg_UI_cut_520_152
+  - first:
+      213: 8269762564206241684
+    second: UI_cut_520_153
+  - first:
+      213: -876269804948929726
+    second: UI_cut_520_154
+  - first:
+      213: 1034254427710144861
+    second: UI_cut_520_155
+  - first:
+      213: -7847087541171825009
+    second: UI_cut_520_156
+  - first:
+      213: 112940412455444921
+    second: UI_cut_520_157
+  - first:
+      213: -2426603792102006479
+    second: UI_cut_520_158
+  - first:
+      213: -2596241120755781837
+    second: UI_cut_520_159
+  - first:
+      213: 7394029054549263840
+    second: UI_cut_520_160
+  - first:
+      213: -3023219028120509252
+    second: UI_cut_520_161
+  - first:
+      213: -1155230702994441498
+    second: UI_cut_520_162
+  - first:
+      213: -6517657021240064382
+    second: UI_cut_520_163
+  - first:
+      213: 6452041813976836955
+    second: UI_cut_520_164
+  - first:
+      213: -3061374122196537911
+    second: UI_cut_520_165
+  - first:
+      213: -1890458030644196775
+    second: UI_cut_520_166
+  - first:
+      213: 8048043328728177401
+    second: UI_cut_520_167
+  - first:
+      213: -4046496234216796102
+    second: UI_cut_520_168
+  - first:
+      213: 3352294373644256474
+    second: bg_UI_cut_520_169
+  - first:
+      213: -2878892024173528475
+    second: bg_UI_cut_520_170
+  - first:
+      213: -7185331926592978634
+    second: UI_cut_520_171
+  - first:
+      213: 6211986260278536936
+    second: UI_cut_520_172
+  - first:
+      213: 3890810653053876779
+    second: UI_cut_520_173
+  - first:
+      213: 1239253239779228289
+    second: UI_cut_520_174
+  - first:
+      213: 4376608321917359482
+    second: UI_cut_520_175
+  - first:
+      213: 7680225999770939677
+    second: UI_cut_520_176
+  - first:
+      213: 1989091521250988065
+    second: UI_cut_520_177
+  - first:
+      213: 3596840644617064866
+    second: UI_cut_520_178
+  - first:
+      213: -3105717936689891890
+    second: UI_cut_520_179
+  - first:
+      213: 9211417600558643293
+    second: UI_cut_520_180
+  - first:
+      213: -1895574756785890820
+    second: UI_cut_520_181
+  - first:
+      213: 2995540906154375603
+    second: UI_cut_520_182
+  - first:
+      213: 4690264703722130094
+    second: UI_cut_520_183
+  - first:
+      213: -6735396479876782452
+    second: UI_cut_520_184
+  - first:
+      213: 6890383463543074016
+    second: btn_UI_cut_520_185
+  - first:
+      213: 8300004437128004575
+    second: UI_cut_520_186
+  - first:
+      213: -165195582963998870
+    second: UI_cut_520_187
+  - first:
+      213: -8179294615091669794
+    second: btn_UI_cut_520_188
+  - first:
+      213: 3399314395185691573
+    second: bg_UI_cut_520_189
+  - first:
+      213: 6848614832459554044
+    second: bg_UI_cut_520_190
+  - first:
+      213: -1073624003569920144
+    second: UI_cut_520_32
+  - first:
+      213: 2439461579499829122
+    second: btn_UI_cut_520_191
+  - first:
+      213: 7556208300100228412
+    second: btn_UI_cut_520_192
+  - first:
+      213: -1991779313881734921
+    second: UI_cut_520_59
+  - first:
+      213: 3589561643187485694
+    second: UI_cut_520_58
+  - first:
+      213: -2698448993733792626
+    second: UI_cut_520_60
+  - first:
+      213: -3215078656036863805
+    second: bg_UI_cut_520_61
+  - first:
+      213: -5379551587210425270
+    second: bg_UI_cut_520_193
+  - first:
+      213: 6850039555371850028
+    second: bg_UI_cut_520_194
+  - first:
+      213: -742493868868957193
+    second: bg_UI_cut_520_195
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_cut_520_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 467
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 25, z: 10, w: 21}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cfb4466f8924f27ada25373f113dbf
+      internalID: -6034322890609930565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 499
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 10, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae047c05f5114e50b0bf06232429f85
+      internalID: -4656875956490552060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 507
+        width: 216
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83a6c47d18447848a5dfe77525dcf9
+      internalID: -1990737518019653853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_select_bg
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 343
+        width: 75
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf899111585b4abc8f27f708d4e1990
+      internalID: -2516289206698425943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 504
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 7, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d76e7b5bb34b3fa6804f1a6bcc86d
+      internalID: 2650771749589622651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 492
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 10, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e729eab8234da58f62be18add73c9
+      internalID: -4168823578560807711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 492
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de916410ca914852ad6e11d05d1b1a3
+      internalID: 2341025400854584620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 457
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 25, z: 21, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a99958767754f628fb2d5b2c98c013
+      internalID: -4048069632497137873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 426
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 43, y: 47, z: 28, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca59d097fa464664bfac890d485a0e9
+      internalID: 7234385967252291109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 453
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 18, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca6022deeeb4a53bba73c000d31fca
+      internalID: 1543191930281233760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 450
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4be642617149c19285fffde0860ee
+      internalID: -3531344966156611178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 434
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca19ae8a31245b5a099c506f3f1f82
+      internalID: 786166259578084250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 454
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 8, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1330167e43449c290838d16374a98f
+      internalID: -5723639767454232261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 452
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 13, z: 21, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579d3e429b45d41708af74133998225f
+      internalID: -153403839754300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 457
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 5, z: 4, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dcf09330edd4cdeaba5e267382d291
+      internalID: 6899002138826787753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 435
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 8, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cd293c6a816475bb4123bb8c6c933d
+      internalID: -4367113620027617629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_17
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 389
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2591050efca94856994257de84c6c30
+      internalID: 2315254566701026564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 414
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2d26f18729846ba967ee8250379b20
+      internalID: -7098504689249589263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 374
+        width: 128
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48533fa4c074473b4f0e39db9467bb
+      internalID: 6835989110057347496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad449e74b8614d3e82c01c336fbe5c3
+      internalID: -8106868650679645366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 408
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 0, z: 38, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86df5058f85bb4157b80c50a41a4fbea
+      internalID: 1732838442704556910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 413
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7bcdc01c1464b90b32c046543ede1f
+      internalID: -6545825984706805166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 414
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff13e9d8d8be4d94a0830fa507e253d
+      internalID: -8019167000166236427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 422
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f83fbc80e21b44ada28d540840ec642
+      internalID: 2610943636015168216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 400
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9170e26ad165146fcaeb1a8a68c6f693
+      internalID: 3405581932872161594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_26
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 380
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 24, z: 14, w: 19}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c45ae81787144db937cee112abe0a1
+      internalID: 3686405089290967810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 395
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5901aa1e41374fc689df26567e81560
+      internalID: -8207342758738319799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 392
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 8, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a507f932488d4b068a88cebf1a3b9c5
+      internalID: -8739812136055670126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 8, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a691274f3a242442291e5cb1f46ae5e7
+      internalID: 8034654943650246246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 397
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c8de57c358349009d1f5ea3a24e462
+      internalID: 7126469460088553758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 396
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07438f395f9e0422a98c6d6d47dcf740
+      internalID: -6923788922018514741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9556f5d0f2f8d467dad579f21f34cbcf
+      internalID: -2275535721969635067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 356
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 17, z: 8, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b6ef5f61154219bb58a3ef28461a9
+      internalID: -3509111468339067433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_37
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 343
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1987bb29a78c4d0cace8787bc41d1f5
+      internalID: 7685473402201168446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 306
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131385078559477f9c0f38a5011e3de
+      internalID: -7597068696871093372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 11, z: 0, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35f590c3255642bdad8ad7d8904e2be
+      internalID: -8881833117939777716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 490
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69743465858a49f38fda66d1cde43e7
+      internalID: -6589071155568415288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 481
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16de67205009a43ada115863b8d131fe
+      internalID: 5703784543938902660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_47
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 488
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc294857b3d47d7bca353a226c31a0
+      internalID: 7094401372617421169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 487
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 5, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8479a1194bbd34ad9a872a1459b4e678
+      internalID: -9209825502561513539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 481
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b34ecae560b34929801a4c3b2019576
+      internalID: 8550653987639952496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 462
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea5612bc09c4ce899a3c351d9a5b94
+      internalID: -339072584191970680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 455
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473bf7f01586d43ed90b66c78aae616d
+      internalID: -6755406141476501212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 425
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 7, z: 0, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea2fda6c20104a36983b190a9aae0d1
+      internalID: -5006961763211316091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 425
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5fbce3adcb64ff5b699855526d2314
+      internalID: 181106036723096544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_54
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 449
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 5, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318951e9066464c5d90dff6665b65edc
+      internalID: 5802637727497439012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 438
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 5, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da4819753be4dd78aee2bfeaafb18d
+      internalID: -8450861620846402910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 425
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dc7ebb3054045d08940778f38505bb
+      internalID: 7587585446547029658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 418
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92f6aac71df74b8db5f40b0678d2629
+      internalID: 9060795291042363661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_70
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3e317b58de4106a7e96bba65cccb7
+      internalID: -3888533070067746421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_71
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 306
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eb7fac6742645db8752611cb02072d
+      internalID: 6993559228005823102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_72
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 306
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d8df020cdc4495927b7a35c3901fa
+      internalID: -5771141995474731230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_73
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 306
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebef0c908c22445faecad88461f533a
+      internalID: -7595670037283810603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_74
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 306
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61e2c8a6d14d40a197afde668733d3c
+      internalID: 7111036967038119770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 318
+        width: 57
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54df50562079246c2a669a19e6d579ff
+      internalID: -5604802994436240706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 425
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d080f6cad428bae0800000000000000
+      internalID: -1533435151060533039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52fad83c72f8700800000000000000
+      internalID: 544697800784291239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 478
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 11, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352bd5f942ca68c20800000000000000
+      internalID: 3208441057840575059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 371
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb279e67d88a5f10800000000000000
+      internalID: 2259268621934472134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 400
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9493f7ce661684b31a5d3fa4c94c480a
+      internalID: -1469305843084173684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 398
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b4116ec077c4fd1a7692dd9c775e6f
+      internalID: -7436414670912859241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_77
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 399
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b2c2a4cabb4f2faf9ab7e12aa770d
+      internalID: -4510757526065443689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_78
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 382
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b671e0b459e434303b8eedf5de6ab7d2
+      internalID: 5962680726397489246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_79
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 385
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee3ff302f36d486fb631a398182538d
+      internalID: 7811409120711350203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd296434777c4450a037888fe227d98
+      internalID: 7174126741178954138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_81
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 318
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c24fd725f641a58cfa63c2654ed97
+      internalID: -2475619519110754941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 319
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba355fe930c434c78afdddab58241874
+      internalID: 7350085522592270526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_83
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 317
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c401452f9414ed0bcd5ddb586e25c8
+      internalID: -4797875385908143959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_84
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 315
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 12, z: 8, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634e29e44707141968b07269df34f5d9
+      internalID: 1526401523891398079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 284
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8219bd9ab1f564c0f954f50f022f11b7
+      internalID: 9153655734155717738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_86
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 266
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 11, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbd04af354a048f3a4ce1cf5a290c84
+      internalID: 2199005415513958689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 267
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 8, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63831e31f0f8b431185ddc2433f9283a
+      internalID: 2810207778187665764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 233
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b70d0b48daa5402da435ce015adb877
+      internalID: -5823203628287947393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_89
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 233
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf56fd26fbea4242bf1216b63af5a09
+      internalID: -3453128897059460168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 211
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7909bf7bd464ee396c7dd6faacaeac
+      internalID: -5908632916376832351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_91
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 214
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc3d0895eec462b9f743a2f4f83845
+      internalID: 3167721355762241482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 237
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0cbd296735b49a2abc4fbca4d63fdb
+      internalID: 4087862268457599691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 250
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3efae8659249fe96ba10b56236d43
+      internalID: 6149625443410764299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 292
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177639bc4994a46c9ad10d70c7ec7b20
+      internalID: 1608118542653697108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_95
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 292
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 0, z: 7, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f4c57810126457f8f24c4178a2a128
+      internalID: 4972928459438875654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_96
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 291
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ec3aec56064afba9d3952d47ea83d
+      internalID: 7416903885244451707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_97
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 276
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed4c0236418f48b8ab42bc5bd8686ec
+      internalID: -454716747325180447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_98
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 247
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36814a86192f64cc0ac7f609cef971ed
+      internalID: 4285663616454444298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 247
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e93f6e5ea2d492fab4544b25c1414f
+      internalID: 5684151456865597774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 291
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 12, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7a5b47d0486c20800000000000000
+      internalID: 3199878828673104909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_970
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 285
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665bd02c96b734178b4d43d50e190b2a
+      internalID: 3354230450162207929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_102
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 294
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 5, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28959c240425a4d22a8155a0d930baae
+      internalID: 2004347149414546353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 281
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 12, z: 9, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05700576c190347c6891ec2051191aaa
+      internalID: -5492854550941457109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_104
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 249
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3880ab00e1e41ad94c41d57be9650a
+      internalID: 867668512976761691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 199
+        width: 144
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbc5d110abdb4693b0f7aa2039825dd
+      internalID: 8096239043203330464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_106
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ddf635730114814a92adb68cfb3b7b
+      internalID: -4666697909528083086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_107
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 406
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 8, z: 5, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810d21bf2a58f475fb424739ad3ef230
+      internalID: 968996277136519913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_108
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64236d0806b77453888ed260c9a4233e
+      internalID: 8782647527430549358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_109
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 386
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdde1e8e9c1ff48b1a4aeb7bd569f035
+      internalID: -8234705331126279029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_110
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 383
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081cdde1f94841a1970e8723208ad2b
+      internalID: 5580189152232159101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_111
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 261
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b0fad0074304a2a993ec2adadb8d79
+      internalID: -8503368522316503405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_112
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 268
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 6, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d739e679e54e33b1910e825576883
+      internalID: -6852665119742460513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_113
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 267
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 6, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd93cc6acf94e22b4a0b01a7a79f4e
+      internalID: 703221145529798607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_114
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 247
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce704f0e93d2844cebd4d5a4526f99d7
+      internalID: -6150244195547997383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 227
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21685e3488ec43b78c6bc4464a93df0
+      internalID: -5667728630608681513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_116
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 221
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1730afcc20e46e380150a24dfa6fff
+      internalID: -2484972263531795172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_117
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 220
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2445333d3eda4053ba736c1aaaae376
+      internalID: 3357235122700925574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_118
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 219
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0be9b7bfa745459cdf6fabd59e529
+      internalID: -8345086088725526641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_119
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 220
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edb86975a1564ed2a8f7c6543860315
+      internalID: 7467348712524521160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_120
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 294
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f6360f8c57a44b5841bb5d1458b084
+      internalID: -2521486755111313686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b135cdf5f721d49ba9df72f61e1741eb
+      internalID: -7316129284147816557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_122
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 154
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988dd105e4d07406d948d32ca4366794
+      internalID: 6438560987256337512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_123
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 187
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 14, z: 11, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f72cb49c80747358a58237e1c7bb24
+      internalID: -8230348866099945457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f007c55112f5494ab106caf92109751
+      internalID: -1905968499603470792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_125
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 195
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccfbe1e927b44d928f9e283312bffb0
+      internalID: 8913805664300772706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_126
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 199
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 7, z: 7, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e49e252dff4b68ab3faec20d54810
+      internalID: 7686161992683727391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_127
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d111e529ccf466c829b7b6fe5a3828
+      internalID: 1906528610482335161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_128
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 169
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4037c2e47713e40d784fbdea6976ec0a
+      internalID: -37330229925696910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_129
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83efe4da92e924f9a9694076c281b4fa
+      internalID: -1014393184902286988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_130
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 157
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de02e812f4586421a9e71315cfc8f8f8
+      internalID: -3447045260707323246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_131
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 156
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397013fbb102e4567a06462bb8c065cf
+      internalID: -1231563085630190085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_132
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 157
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8acdf6667f84521bc0c6ba0284305a
+      internalID: 6401094639553424270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_133
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 215
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 21, z: 25, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145bc6d1f5df405aaf95f73bdaee314
+      internalID: -7907509815658763191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_134
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 255
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 23, z: 18, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a50735572d24ca89cc55a7acf9cf0e
+      internalID: -5086890019216329313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_135
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 211
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b5f15c11a0449fc8041e280fa0eee7
+      internalID: -8067920536820368683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_136
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 208
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d1422b792d0437985bc3d7fb9f681d
+      internalID: -6007582234137969866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_137
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 208
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad983fc786c48c7b4ce01a50c78b2f
+      internalID: 192051706394486884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6d8ffdd71f14d5a9bf6dafa279f32f
+      internalID: 4421312676782207955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_139
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d0c388b09941edb1c7712782003ac
+      internalID: 6182684477108993403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_140
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f398e2fd9564d2cbf8528390acbe9c
+      internalID: -2916862541262667737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_141
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e281958f48d847a1a1a590efa59c828
+      internalID: -2257390743471481179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_142
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278ea41b119414e0e8d839eb7b322469
+      internalID: -8538505548750912699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_143
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ec9aebe929f4c448288e1ce33f363c
+      internalID: 733163387496491089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_144
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71acef82643854f799a09c887267e1cd
+      internalID: 3225888580969878120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_145
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3635cca5ca1e94aec8834f92a431a16b
+      internalID: 7137342390792865774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_146
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b90418e22c53447eb42da54624de1b5
+      internalID: -5318486196290033791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_147
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94bd91a2b8a4c7f8113eae9b882506
+      internalID: 9095751150513459045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_148
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b070dc5fcaba4539bc30919860de0d8
+      internalID: -1481941079746733759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_149
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 135
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a0f789913a741a386d2f2c54e9a283
+      internalID: 6513163650159169068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d813a75c7dd184f6091bc66aa5f7aca9
+      internalID: 849847528919427427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_151
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 112
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc820fbb3df2449f84fbe786f0cad8d
+      internalID: -6399324180339981709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_152
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 90
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 28, z: 24, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e04ea8d0ab046deb718924ec4f89a1
+      internalID: 6928867019826347749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_153
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 324
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a544431d4b04399a16aca359d56b44
+      internalID: 8269762564206241684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_154
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 341
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26bd98488edf434182945ff154b77e5
+      internalID: -876269804948929726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_155
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 375
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a451d8deb5d949a189e28f47822bd9b
+      internalID: 1034254427710144861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_156
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 218
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db075bc17d24dee850dbb7ed4d075a
+      internalID: -7847087541171825009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_157
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 172
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb22b60b81ee34e4ea8a77d42f2658c8
+      internalID: 112940412455444921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_158
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 216
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6adea7adf98d486e9d335cc3f822367
+      internalID: -2426603792102006479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_159
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 345
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d140a1051844c283ec1d8127a7b54
+      internalID: -2596241120755781837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_160
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 392
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 8, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58357ff3edc9660800000000000000
+      internalID: 7394029054549263840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_161
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 359
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 4, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4eca6cf4e5b06d0800000000000000
+      internalID: -3023219028120509252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_162
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 378
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 4, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea346adbcbc7ffe0800000000000000
+      internalID: -1155230702994441498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 135
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c721a871ac85a0800000000000000
+      internalID: -6517657021240064382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_164
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 137
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6e0e68d14a8950800000000000000
+      internalID: 6452041813976836955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_165
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 20
+        width: 291
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cde6e9a470d385d0800000000000000
+      internalID: -3061374122196537911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_166
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 140
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0bacef6eb3c5e0800000000000000
+      internalID: -1890458030644196775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_167
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 163
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa9bc164c460bf60800000000000000
+      internalID: 8048043328728177401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_168
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 134
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a305d8e3d15f7d7c0800000000000000
+      internalID: -4046496234216796102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_169
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad44b9bb8fdb58e20800000000000000
+      internalID: 3352294373644256474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7e6005fe1c08d0800000000000000
+      internalID: -2878892024173528475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_171
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631072aaea2984c90800000000000000
+      internalID: -7185331926592978634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_172
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea62895798653650800000000000000
+      internalID: 6211986260278536936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_173
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2af49facafeef530800000000000000
+      internalID: 3890810653053876779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_174
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18afac77146b23110800000000000000
+      internalID: 1239253239779228289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7517ec9416dcbc30800000000000000
+      internalID: 4376608321917359482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_176
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11f01fead4a59a60800000000000000
+      internalID: 7680225999770939677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_177
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12018ed233caa9b10800000000000000
+      internalID: 1989091521250988065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_178
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a15618628b8ae130800000000000000
+      internalID: 3596840644617064866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_179
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53a0bcdf546e4d0800000000000000
+      internalID: -3105717936689891890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_180
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d583417e08785df70800000000000000
+      internalID: 9211417600558643293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_181
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf954984dc091b5e0800000000000000
+      internalID: -1895574756785890820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_182
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9bb75459c429920800000000000000
+      internalID: 2995540906154375603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_183
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 473
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa09efd5ea271140800000000000000
+      internalID: 4690264703722130094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_184
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 498
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86278356901782a0800000000000000
+      internalID: -6735396479876782452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_185
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 493
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ece5b6d04f8f9f50800000000000000
+      internalID: 6890383463543074016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_186
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 479
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd34e2d6f0a8f2370800000000000000
+      internalID: 8300004437128004575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_187
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 472
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f97f61e7b15bdf0800000000000000
+      internalID: -165195582963998870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_188
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 452
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4123222ee4d7e80800000000000000
+      internalID: -8179294615091669794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_189
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 356
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 17, z: 8, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb3aec9e6acc2f20800000000000000
+      internalID: 3399314395185691573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_190
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 356
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 17, z: 8, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc193497ea2b0f50800000000000000
+      internalID: 6848614832459554044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 0, z: 14, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d1e438a8b911f0800000000000000
+      internalID: -1073624003569920144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_33
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 478
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 11, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37849c8be93a82a0800000000000000
+      internalID: -6734506608940513478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 390
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 4, z: 3, w: 3}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05fbdd7c7fd47b0800000000000000
+      internalID: -5238258353771163433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_191
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 362
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 7, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287fc49b165bad120800000000000000
+      internalID: 2439461579499829122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_192
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 345
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 7, z: 5, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3515581a6b0dd860800000000000000
+      internalID: 7556208300100228412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 314
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbbe81db4fa0d130800000000000000
+      internalID: 3589561643187485694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 306
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ab155447cb54e0800000000000000
+      internalID: -1991779313881734921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cacfbefee2d8ad0800000000000000
+      internalID: -2698448993733792626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 369
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c08bfd1ffeb163d0800000000000000
+      internalID: -3215078656036863805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 384
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 10, z: 8, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b456d54899abf0f00800000000000000
+      internalID: 1085291203733054795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_63
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 378
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 4, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5834c891bede750800000000000000
+      internalID: 6335978745740101078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 210
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bb0cdc2b99e9080800000000000000
+      internalID: -9178729997299303553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_65
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 210
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21673a140be708f0800000000000000
+      internalID: -574232024614215380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dedf640ad4bc620800000000000000
+      internalID: 2795413344494677374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 79
+        width: 2
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e6c0cae8e8baf0800000000000000
+      internalID: -380298073558555299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_cut_520_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 79
+        width: 2
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ba2dfadf70ce20800000000000000
+      internalID: 3368833099800162411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_UI_cut_520_69
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 49
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 23, z: 26, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f78acec0c303f0800000000000000
+      internalID: -935692303169227822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_193
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 345
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 9, z: 7, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c0f61655ef755b0800000000000000
+      internalID: -5379551587210425270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_194
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 347
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 17, z: 6, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29505bbeaa301f50800000000000000
+      internalID: 6850039555371850028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_UI_cut_520_195
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 347
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 17, z: 7, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb092a92c122b5f0800000000000000
+      internalID: -742493868868957193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

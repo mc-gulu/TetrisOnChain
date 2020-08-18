@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 2f1ffc4e688b0435fa0e65ea8eaa4cc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1514154806778973066
+    second: GuLoo_0
+  - first:
+      213: 7621069895174534855
+    second: GuLoo_1
+  - first:
+      213: -5016017141215378062
+    second: GuLoo_2
+  - first:
+      213: 1444100848655602018
+    second: GuLoo_3
+  - first:
+      213: 3615893408643670068
+    second: GuLoo_4
+  - first:
+      213: 3881900521336782788
+    second: GuLoo_5
+  - first:
+      213: 6689684716632735017
+    second: GuLoo_6
+  - first:
+      213: 6277667123901596165
+    second: GuLoo_7
+  - first:
+      213: 3231290620740369693
+    second: GuLoo_8
+  - first:
+      213: 3302253151617025537
+    second: GuLoo_9
+  - first:
+      213: -1733274850728566910
+    second: GuLoo_10
+  - first:
+      213: -1143559831866388325
+    second: GuLoo_11
+  - first:
+      213: -7570998464556896823
+    second: GuLoo_12
+  - first:
+      213: -7135195316648499060
+    second: GuLoo_13
+  - first:
+      213: -5985306817491351349
+    second: GuLoo_14
+  - first:
+      213: 8941039209737510330
+    second: GuLoo_15
+  - first:
+      213: -1463742546767194382
+    second: GuLoo_16
+  - first:
+      213: -7254130754161212614
+    second: GuLoo_17
+  - first:
+      213: -3229973850589933792
+    second: GuLoo_18
+  - first:
+      213: -1433367839571452066
+    second: GuLoo_19
+  - first:
+      213: -821588177798587652
+    second: GuLoo_20
+  - first:
+      213: -2456628917291341130
+    second: GuLoo_21
+  - first:
+      213: 9038555793637245025
+    second: GuLoo_22
+  - first:
+      213: 8422886883538033095
+    second: GuLoo_23
+  - first:
+      213: -1970350349403115070
+    second: GuLoo_24
+  - first:
+      213: -5055722425415773162
+    second: GuLoo_25
+  - first:
+      213: 478851205772321258
+    second: GuLoo_26
+  - first:
+      213: -5702598080200009317
+    second: GuLoo_27
+  - first:
+      213: 345520691395836841
+    second: GuLoo_28
+  - first:
+      213: -250624246715540327
+    second: GuLoo_29
+  - first:
+      213: -8591269783763901061
+    second: GuLoo_30
+  - first:
+      213: -7897749605063622994
+    second: GuLoo_31
+  - first:
+      213: 6806511549575011332
+    second: GuLoo_32
+  - first:
+      213: -439987017812239633
+    second: GuLoo_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GuLoo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6743dfeb934acfae0800000000000000
+      internalID: -1514154806778973066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 295
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c63d4601ba73c960800000000000000
+      internalID: 7621069895174534855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 295
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275469e6cf6836ab0800000000000000
+      internalID: -5016017141215378062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 295
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26115f7121a7a0410800000000000000
+      internalID: 1444100848655602018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 295
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e1e7b5eb3e2230800000000000000
+      internalID: 3615893408643670068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 295
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfbeabf4f74fd530800000000000000
+      internalID: 3881900521336782788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92df04a6ec886dc50800000000000000
+      internalID: 6689684716632735017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 236
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028d4a1df0ce1750800000000000000
+      internalID: 6277667123901596165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 236
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df74f03b9d7dc20800000000000000
+      internalID: 3231290620740369693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 236
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1060c8cceb5f3dd20800000000000000
+      internalID: 3302253151617025537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 236
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f9430e4bb22f7e0800000000000000
+      internalID: -1733274850728566910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 236
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90d23a44624120f0800000000000000
+      internalID: -1143559831866388325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdee0562096ee690800000000000000
+      internalID: -7570998464556896823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 177
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a224d9a1bafc90800000000000000
+      internalID: -7135195316648499060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 177
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc844b7392befeca0800000000000000
+      internalID: -5985306817491351349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 177
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5e332ac3f41c70800000000000000
+      internalID: 8941039209737510330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 177
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6d051b8edbfabe0800000000000000
+      internalID: -1463742546767194382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 177
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a330cfb5386245b90800000000000000
+      internalID: -7254130754161212614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f49c165e3dc23d0800000000000000
+      internalID: -3229973850589933792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 118
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fdfd15b87ab1ce0800000000000000
+      internalID: -1433367839571452066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 118
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa97aeb7e12994f0800000000000000
+      internalID: -821588177798587652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 118
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa5e7f30d48edd0800000000000000
+      internalID: -2456628917291341130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 118
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1600c422b966f6d70800000000000000
+      internalID: 9038555793637245025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 118
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9d4948efa14e470800000000000000
+      internalID: 8422886883538033095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1b2ccebc8e7a4e0800000000000000
+      internalID: -1970350349403115070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 59
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614dd1e8d3776d9b0800000000000000
+      internalID: -5055722425415773162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 59
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a35472a835a600800000000000000
+      internalID: 478851205772321258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 59
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999adc724d4cd0b0800000000000000
+      internalID: -5702598080200009317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 59
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab3239fc398bc400800000000000000
+      internalID: 345520691395836841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 59
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9b62539a958cf0800000000000000
+      internalID: -250624246715540327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a43176ada5c880800000000000000
+      internalID: -8591269783763901061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae7339049e856290800000000000000
+      internalID: -7897749605063622994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c13002136957e50800000000000000
+      internalID: 6806511549575011332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GuLoo_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea9481732ad4e9f0800000000000000
+      internalID: -439987017812239633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

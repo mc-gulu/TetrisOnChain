@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 975ee9d0d2e594a7abd465efb43cdc9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 809735169860586033
+    second: Skill_Backhaus_holdshot_0
+  - first:
+      213: 4697085821523487024
+    second: Skill_Backhaus_holdshot_1
+  - first:
+      213: 790060725425101338
+    second: Skill_Backhaus_holdshot_2
+  - first:
+      213: 7069392973204194163
+    second: Skill_Backhaus_holdshot_3
+  - first:
+      213: 4484898636813359986
+    second: Skill_Backhaus_holdshot_4
+  - first:
+      213: 7689422423763818639
+    second: Skill_Backhaus_holdshot_5
+  - first:
+      213: 9102462308463079016
+    second: Skill_Backhaus_holdshot_6
+  - first:
+      213: -3165644785648799471
+    second: Skill_Backhaus_holdshot_7
+  - first:
+      213: 6709009074430793710
+    second: Skill_Backhaus_holdshot_8
+  - first:
+      213: 3138067963714276813
+    second: Skill_Backhaus_holdshot_9
+  - first:
+      213: 6064408841018567637
+    second: Skill_Backhaus_holdshot_10
+  - first:
+      213: -8240458604332965583
+    second: Skill_Backhaus_holdshot_0
+  - first:
+      213: 6307331746183538415
+    second: Skill_Backhaus_holdshot_1
+  - first:
+      213: 4046042686810800930
+    second: Skill_Backhaus_holdshot_2
+  - first:
+      213: -6976696541121377641
+    second: Skill_Backhaus_holdshot_3
+  - first:
+      213: 3365030510204188084
+    second: Skill_Backhaus_holdshot_4
+  - first:
+      213: 5748811573635727369
+    second: Skill_Backhaus_holdshot_5
+  - first:
+      213: 6929090534513147127
+    second: Skill_Backhaus_holdshot_6
+  - first:
+      213: -3281617185347859774
+    second: Skill_Backhaus_holdshot_7
+  - first:
+      213: 6234369461700198822
+    second: Skill_Backhaus_holdshot_8
+  - first:
+      213: 5197612069188692120
+    second: Skill_Backhaus_holdshot_9
+  - first:
+      213: 1568923298982959943
+    second: Skill_Backhaus_holdshot_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1312c662f8204ad80800000000000000
+      internalID: -8240458604332965583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe660d33ec4288750800000000000000
+      internalID: 6307331746183538415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223cc65036e662830800000000000000
+      internalID: 4046042686810800930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a83c0c57bcd2f90800000000000000
+      internalID: -6976696541121377641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5721b9b6df2be20800000000000000
+      internalID: 3365030510204188084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900463feaa1e7cf40800000000000000
+      internalID: 5748811573635727369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc7d261123192060800000000000000
+      internalID: 6929090534513147127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_7
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca06828e8a5572d0800000000000000
+      internalID: -3281617185347859774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_8
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 96
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a10f2b8efde48650800000000000000
+      internalID: 6234369461700198822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_9
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898664883a0a12840800000000000000
+      internalID: 5197612069188692120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill_Backhaus_holdshot_10
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b96bb8d6fe5c510800000000000000
+      internalID: 1568923298982959943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

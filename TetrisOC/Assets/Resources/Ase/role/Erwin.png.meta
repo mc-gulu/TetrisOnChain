@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 7d89c1cad8db24d08912261406d68d74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5753374734409088115
+    second: Erwin_0
+  - first:
+      213: -8922176554730994033
+    second: Erwin_1
+  - first:
+      213: -3671459828233008350
+    second: Erwin_2
+  - first:
+      213: -5008835912448868995
+    second: Erwin_3
+  - first:
+      213: -5637187254764191038
+    second: Erwin_4
+  - first:
+      213: 3729838255146300620
+    second: Erwin_5
+  - first:
+      213: -2386137286247115833
+    second: Erwin_6
+  - first:
+      213: 9209204981968720646
+    second: Erwin_7
+  - first:
+      213: -4810371138807235633
+    second: Erwin_8
+  - first:
+      213: 3838107126503719228
+    second: Erwin_9
+  - first:
+      213: 8520761114122084409
+    second: Erwin_10
+  - first:
+      213: 3867148993004523219
+    second: Erwin_11
+  - first:
+      213: 7787986530635234263
+    second: Erwin_12
+  - first:
+      213: 5049577854846714878
+    second: Erwin_13
+  - first:
+      213: 3360863109819524680
+    second: Erwin_14
+  - first:
+      213: 415171216260639561
+    second: Erwin_15
+  - first:
+      213: -3781937894142835144
+    second: Erwin_16
+  - first:
+      213: -1059941589287954038
+    second: Erwin_17
+  - first:
+      213: -6837214392194939401
+    second: Erwin_18
+  - first:
+      213: -3600355356615690170
+    second: Erwin_19
+  - first:
+      213: -4270358860461739812
+    second: Erwin_20
+  - first:
+      213: -4602841330165921592
+    second: Erwin_21
+  - first:
+      213: -6254356444510324374
+    second: Erwin_22
+  - first:
+      213: -1829206668608179750
+    second: Erwin_23
+  - first:
+      213: -6970829240601393314
+    second: Erwin_24
+  - first:
+      213: 3306840032450160894
+    second: Erwin_25
+  - first:
+      213: -4387161289838017253
+    second: Erwin_26
+  - first:
+      213: 6499912819051490971
+    second: Erwin_27
+  - first:
+      213: -692138915494962594
+    second: Erwin_28
+  - first:
+      213: 5384089923988532334
+    second: Erwin_29
+  - first:
+      213: -3889790738885559248
+    second: Erwin_30
+  - first:
+      213: -4578588902293892639
+    second: Erwin_31
+  - first:
+      213: -8024634567162600907
+    second: Erwin_32
+  - first:
+      213: -3749059283978808928
+    second: Erwin_33
+  - first:
+      213: 8101181867540278465
+    second: Erwin_34
+  - first:
+      213: -5530445885742598256
+    second: Erwin_35
+  - first:
+      213: -4155068733951427712
+    second: Erwin_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Erwin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c25ffc2ed104cab93f12f5b7bacde5
+      internalID: -5753374734409088115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 345
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7c638b8f2244a6fbd36e7f8ad5dea7
+      internalID: -8922176554730994033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 345
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d9a80cf4474191bb918d8dde09240
+      internalID: -3671459828233008350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 345
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbb218cdf2a44aaa9143c3659593fe9
+      internalID: -5008835912448868995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 345
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6913fff33bf0404c8da758e010658da
+      internalID: -5637187254764191038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 345
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6daba6b4a54acf9b0e6bd43b9812b
+      internalID: 3729838255146300620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 345
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982017c9bb596416e93084d0fc54b694
+      internalID: -2386137286247115833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e20e1a5de9b482aa431616cc6281f4
+      internalID: 9209204981968720646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 276
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1b01747cef4270b6e9d14d3ab5f40
+      internalID: -4810371138807235633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 276
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a0decc77b0d4d2393a7b450c110e1d
+      internalID: 3838107126503719228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 276
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4150108af0b443b921665392d85e71
+      internalID: 8520761114122084409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_11
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 276
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c4ceb32cdb4b388bbef2c4f86fbbc
+      internalID: 3867148993004523219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 276
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36facff9c8a80400dad3a85267f3c0e7
+      internalID: 7787986530635234263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_13
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 276
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c04c69e6180435bbc80c9c0e570b69
+      internalID: 5049577854846714878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd19442bbbcc4ec2914fa101ec465f5
+      internalID: 3360863109819524680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 207
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b0de0fd0384325b7affae79fbe0e9
+      internalID: 415171216260639561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 207
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7885a8c67ef3d40829dc828abaccdc40
+      internalID: -3781937894142835144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 207
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c4b3f0bbc749ae97baf6ded106b18
+      internalID: -1059941589287954038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 207
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938cbfd8050324197b2ef9d98da99f97
+      internalID: -6837214392194939401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 207
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307215a46a9ea4b6da8c94708b110ea7
+      internalID: -3600355356615690170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 207
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d42749d62c15419bb7bed16d79809ae
+      internalID: -4270358860461739812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a881198c04484a94f90efd7aa5eeb
+      internalID: -4602841330165921592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 138
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d30adef122b43d9b2f472a3fc07d18
+      internalID: -6254356444510324374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 138
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b8a881433b8406d8b9025aeb2e4fcd
+      internalID: -1829206668608179750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 138
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a35c957803a49faa4df1db2fbd17b8
+      internalID: -6970829240601393314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 138
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb2a71072a724302a5a6524b040c337
+      internalID: 3306840032450160894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_26
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 138
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea18156b54e2b4610aa8a78007757fc5
+      internalID: -4387161289838017253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 138
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7fd40089b2e4c249446f6b3adc3cfd
+      internalID: 6499912819051490971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529e0caf43284512b8e49c331ebecdf
+      internalID: -692138915494962594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837574b766d5d41489bd46ed9c0c3b39
+      internalID: 5384089923988532334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 69
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d12b850508f453f89b23dac9c27d23
+      internalID: -3889790738885559248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 69
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97db5b7184314cc5918b2c710df3a94
+      internalID: -4578588902293892639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 69
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23eac65ebef4e9297bc1efae93c78f
+      internalID: -8024634567162600907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_33
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 69
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53df205d54e194f56be3d3455d9eb6e4
+      internalID: -3749059283978808928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 69
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898629b67be0946bbb770854fa65aeec
+      internalID: 8101181867540278465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d88b910ed164e1bad47c054ba1ae72
+      internalID: -5530445885742598256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Erwin_36
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5059e68400184bc29c449e49a3ef352
+      internalID: -4155068733951427712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

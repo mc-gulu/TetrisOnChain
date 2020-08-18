@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - creature
+  - bullet
+  - repulsion
+  - 
+  - 
+  - 
+  - wall
+  - 
+  - event
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4224830023
+    locked: 0
+  - name: ground
+    uniqueID: 397842107
+    locked: 0
+  - name: items
+    uniqueID: 3460258753
+    locked: 0
+  - name: effect
+    uniqueID: 2548306781
+    locked: 0
+  - name: top
+    uniqueID: 302475817
+    locked: 0

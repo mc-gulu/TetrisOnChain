@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 57598e459e1d546e9946c840d912f7e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4966327366047029332
+    second: juese_hit_0
+  - first:
+      213: 7433897999297669716
+    second: juese_hit_1
+  - first:
+      213: 5858752452503309292
+    second: juese_hit_2
+  - first:
+      213: 7732481064199661559
+    second: juese_hit_3
+  - first:
+      213: -2696907503032882048
+    second: juese_hit_4
+  - first:
+      213: 6337856995304432312
+    second: juese_hit_5
+  - first:
+      213: 6250396120058362804
+    second: juese_hit_6
+  - first:
+      213: -8990491503029552844
+    second: juese_hit_7
+  - first:
+      213: 7449053617565775359
+    second: juese_hit_8
+  - first:
+      213: 2068027154532014063
+    second: juese_hit_9
+  - first:
+      213: -726211096532345388
+    second: juese_hit_10
+  - first:
+      213: 1447557585316976995
+    second: juese_hit_11
+  - first:
+      213: 5221559896464057174
+    second: juese_hit_12
+  - first:
+      213: 6834305145595600611
+    second: juese_hit_13
+  - first:
+      213: -5923910408044166252
+    second: juese_hit_14
+  - first:
+      213: 975350450433957382
+    second: juese_hit_15
+  - first:
+      213: -7638849364080028266
+    second: juese_hit_16
+  - first:
+      213: 4505785287205175342
+    second: juese_hit_17
+  - first:
+      213: -706283247888362448
+    second: juese_hit_18
+  - first:
+      213: -1331729074371980796
+    second: juese_hit_19
+  - first:
+      213: -7894537060574648669
+    second: juese_hit_20
+  - first:
+      213: -78380518661503104
+    second: juese_hit_21
+  - first:
+      213: -2086175056563921366
+    second: juese_hit_22
+  - first:
+      213: -2684354446702665226
+    second: juese_hit_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: juese_hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458d88b3d60fbe440800000000000000
+      internalID: 4966327366047029332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aef9808d28a2760800000000000000
+      internalID: 7433897999297669716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb886680587e4150800000000000000
+      internalID: 5858752452503309292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_3
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f72e083f8a4f4b60800000000000000
+      internalID: 7732481064199661559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_4
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca3a13ae8a29ad0800000000000000
+      internalID: -2696907503032882048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2685a9b5794f750800000000000000
+      internalID: 6337856995304432312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 181
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbfe89b72eddb650800000000000000
+      internalID: 6250396120058362804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 181
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43971c59c9b5b3380800000000000000
+      internalID: -8990491503029552844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 181
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b8d36cca506760800000000000000
+      internalID: 7449053617565775359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 181
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe71ebb7dbb13bc10800000000000000
+      internalID: 2068027154532014063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd1e37fadafbe5f0800000000000000
+      internalID: -726211096532345388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 362
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3699db054f1c61410800000000000000
+      internalID: 1447557585316976995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 362
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6536a229f05b67840800000000000000
+      internalID: 5221559896464057174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_13
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 362
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee99d9f15458de50800000000000000
+      internalID: 6834305145595600611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_14
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 362
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493c94fbeda0acda0800000000000000
+      internalID: -5923910408044166252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e12a92114298d00800000000000000
+      internalID: 975350450433957382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 543
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6959a49c9fa5df590800000000000000
+      internalID: -7638849364080028266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 543
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20cb0698d3c78e30800000000000000
+      internalID: 4505785287205175342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_18
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 543
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0341ecac027c236f0800000000000000
+      internalID: -706283247888362448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_19
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 543
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029ff0767fb48de0800000000000000
+      internalID: -1331729074371980796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6aa46de58f07290800000000000000
+      internalID: -7894537060574648669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 724
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087ced3655989eef0800000000000000
+      internalID: -78380518661503104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_22
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 724
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e1a3ec6da6c03e0800000000000000
+      internalID: -2086175056563921366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: juese_hit_23
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 724
+        width: 184
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f12c016ad14fbad0800000000000000
+      internalID: -2684354446702665226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

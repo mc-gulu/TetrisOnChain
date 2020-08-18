@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: d3566ffe6652149759bc9388700e3b28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3731055045088171661
+    second: Mulu_0
+  - first:
+      213: 4863160409998860385
+    second: Mulu_1
+  - first:
+      213: -888100181621197838
+    second: Mulu_2
+  - first:
+      213: 2990737785875920513
+    second: Mulu_3
+  - first:
+      213: 4558300228822023304
+    second: Mulu_4
+  - first:
+      213: 8598030280115065168
+    second: Mulu_5
+  - first:
+      213: -8267233172831654548
+    second: Mulu_6
+  - first:
+      213: -2311109943382304402
+    second: Mulu_7
+  - first:
+      213: 2741092601116042728
+    second: Mulu_8
+  - first:
+      213: -2483756043080465649
+    second: Mulu_9
+  - first:
+      213: 4157939417739445842
+    second: Mulu_10
+  - first:
+      213: 1903913997912625348
+    second: Mulu_11
+  - first:
+      213: -3423756939082857936
+    second: Mulu_12
+  - first:
+      213: -8095636736588097699
+    second: Mulu_13
+  - first:
+      213: 4471752544583890888
+    second: Mulu_14
+  - first:
+      213: -4401832653252680619
+    second: Mulu_15
+  - first:
+      213: -5197467121531833963
+    second: Mulu_16
+  - first:
+      213: 2814238944682302320
+    second: Mulu_17
+  - first:
+      213: 484074634326666928
+    second: Mulu_18
+  - first:
+      213: -425896190094438668
+    second: Mulu_19
+  - first:
+      213: 883080572623921856
+    second: Mulu_20
+  - first:
+      213: 5860093762410866397
+    second: Mulu_21
+  - first:
+      213: -3241282896829434929
+    second: Mulu_22
+  - first:
+      213: 1817800289434285438
+    second: Mulu_23
+  - first:
+      213: -1908809730882723593
+    second: Mulu_24
+  - first:
+      213: 305126038741073436
+    second: Mulu_25
+  - first:
+      213: -5772052771564667474
+    second: Mulu_26
+  - first:
+      213: -4882636749653130139
+    second: Mulu_27
+  - first:
+      213: 208276865564897225
+    second: Mulu_28
+  - first:
+      213: 8776734306849535745
+    second: Mulu_29
+  - first:
+      213: 5097597379537805020
+    second: Mulu_30
+  - first:
+      213: -3992607683349903884
+    second: Mulu_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mulu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86d8e7abce57c330800000000000000
+      internalID: 3731055045088171661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 340
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160a9b370aa6d7340800000000000000
+      internalID: 4863160409998860385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 340
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f332851795dca3f0800000000000000
+      internalID: -888100181621197838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 340
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f87fab2c318920800000000000000
+      internalID: 2990737785875920513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 340
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb48e38e5524f30800000000000000
+      internalID: 4558300228822023304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 340
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0519f464cf6525770800000000000000
+      internalID: 8598030280115065168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d2b022b33e44d80800000000000000
+      internalID: -8267233172831654548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 272
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6913d350c94defd0800000000000000
+      internalID: -2311109943382304402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 272
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e529f1a2315a0620800000000000000
+      internalID: 2741092601116042728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 272
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03857fc90de78dd0800000000000000
+      internalID: -2483756043080465649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 272
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25644f7eed7f3b930800000000000000
+      internalID: 4157939417739445842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 272
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d97891bf0c6a10800000000000000
+      internalID: 1903913997912625348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03200b8243f5c70d0800000000000000
+      internalID: -3423756939082857936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d575015d74586af80800000000000000
+      internalID: -8095636736588097699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 204
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c73f573f3bde0e30800000000000000
+      internalID: 4471752544583890888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 204
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554a826168c89e2c0800000000000000
+      internalID: -4401832653252680619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 204
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b259b033eed7b0800000000000000
+      internalID: -5197467121531833963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 204
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bdbd2e86f2e0720800000000000000
+      internalID: 2814238944682302320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be61dfa057c7b600800000000000000
+      internalID: 484074634326666928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 136
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe8a3eeba9e61af0800000000000000
+      internalID: -425896190094438668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 136
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c22c4f1a15514c00800000000000000
+      internalID: 883080572623921856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 136
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd66bf29a3c335150800000000000000
+      internalID: 5860093762410866397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 136
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3beedd066a403d0800000000000000
+      internalID: -3241282896829434929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 136
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75355c6bbf1a3910800000000000000
+      internalID: 1817800289434285438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f02deeb9ab8285e0800000000000000
+      internalID: -1908809730882723593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 68
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e32eef3860c3400800000000000000
+      internalID: 305126038741073436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead341ef59c85efa0800000000000000
+      internalID: -5772052771564667474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 68
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56448a9deb36d3cb0800000000000000
+      internalID: -4882636749653130139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_28
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 68
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6deaa4b2f3e200800000000000000
+      internalID: 208276865564897225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 68
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10730c7d9593dc970800000000000000
+      internalID: 8776734306849535745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde1057fecd4eb640800000000000000
+      internalID: 5097597379537805020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mulu_31
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50f6a37786798c0800000000000000
+      internalID: -3992607683349903884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: da52f406ab04c424bba8a3d49cb6003c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2049858322223515922
+    second: Backhaus_0
+  - first:
+      213: 8251139037673466874
+    second: Backhaus_1
+  - first:
+      213: 5764365907062549628
+    second: Backhaus_2
+  - first:
+      213: -4318946615212707743
+    second: Backhaus_3
+  - first:
+      213: -770318513523589242
+    second: Backhaus_4
+  - first:
+      213: 927060650992120597
+    second: Backhaus_5
+  - first:
+      213: -9114205079016573360
+    second: Backhaus_6
+  - first:
+      213: 916509853680999433
+    second: Backhaus_7
+  - first:
+      213: -6266181624926076859
+    second: Backhaus_8
+  - first:
+      213: -3988914745446250695
+    second: Backhaus_9
+  - first:
+      213: -5926956357520736576
+    second: Backhaus_10
+  - first:
+      213: 1306944415506979057
+    second: Backhaus_11
+  - first:
+      213: 8376509320008834193
+    second: Backhaus_12
+  - first:
+      213: -4534843100754499228
+    second: Backhaus_13
+  - first:
+      213: -8148597465956679694
+    second: Backhaus_14
+  - first:
+      213: 3323374047158906103
+    second: Backhaus_15
+  - first:
+      213: -7031580797053044766
+    second: Backhaus_16
+  - first:
+      213: -2413174150945298874
+    second: Backhaus_17
+  - first:
+      213: -3006504185770601025
+    second: Backhaus_18
+  - first:
+      213: -8196676286884748292
+    second: Backhaus_19
+  - first:
+      213: -3315358892333587365
+    second: Backhaus_20
+  - first:
+      213: 6239839763002222881
+    second: Backhaus_21
+  - first:
+      213: 6637403240049315225
+    second: Backhaus_22
+  - first:
+      213: -3383887092224885056
+    second: Backhaus_23
+  - first:
+      213: 619524515240915102
+    second: Backhaus_24
+  - first:
+      213: 8203730442326083888
+    second: Backhaus_25
+  - first:
+      213: 3653491884321233088
+    second: Backhaus_26
+  - first:
+      213: 7834114152574954756
+    second: Backhaus_27
+  - first:
+      213: 4568266707072316908
+    second: Backhaus_28
+  - first:
+      213: 1284520619528157345
+    second: Backhaus_29
+  - first:
+      213: -3116501922575668578
+    second: Backhaus_30
+  - first:
+      213: 5378788886902271831
+    second: Backhaus_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Backhaus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37430e718448d4a529512842f69e871c
+      internalID: 2049858322223515922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 225
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f47054e1e8fd431385397d92b1bf007
+      internalID: 8251139037673466874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 225
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c4d04c3a4741f595a76566c47d900
+      internalID: 5764365907062549628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 225
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7d78ccb1d9c498f89439e1fde4c7e7
+      internalID: -4318946615212707743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 225
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efb22ce8a4c2449fa2a956ad08a8130
+      internalID: -770318513523589242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 225
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c02a573f36e49ae8de0390540bf366
+      internalID: 927060650992120597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6c7ffffaa2947898dee6fa5352178d
+      internalID: -9114205079016573360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 180
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed5f65555b2d47639afcffad04f07f6
+      internalID: 916509853680999433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 180
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a303cbcf5d2443f19307cf34677fa8d
+      internalID: -6266181624926076859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 180
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cbdb9daebe1416b9802d7cef51386b
+      internalID: -3988914745446250695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 180
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99164aded69e6437090b86f1aa3e06c9
+      internalID: -5926956357520736576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 180
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaeb2dfb614446e2a4c0248296debd9
+      internalID: 1306944415506979057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eda0c237eb8414c9f567d25041bdc7
+      internalID: 8376509320008834193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 135
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ee3e3d1c193430ab2844a33b8ded4d
+      internalID: -4534843100754499228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 135
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819fd02b1d3e40109ed9970d226341f
+      internalID: -8148597465956679694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 135
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db63b9ffd33c490c8a7418e9ed96374
+      internalID: 3323374047158906103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 135
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec366b134614af89ec16aa7b59817c
+      internalID: -7031580797053044766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 135
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08026a797e70c4115ba66a5e8f37597f
+      internalID: -2413174150945298874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d56bf5d17b472cb80e97b29c42996
+      internalID: -3006504185770601025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 90
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233ec1f13cbff4a8b9947e8a45e91d50
+      internalID: -8196676286884748292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 90
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf414d2dce004647a8ca2bbafc89a8c
+      internalID: -3315358892333587365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 90
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac977092ab114a5db7afc8d3451d191
+      internalID: 6239839763002222881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 90
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d443a5900eb40c68b69a0da8649aae
+      internalID: 6637403240049315225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 90
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc173fc140c4c0ab294c56b170b7df
+      internalID: -3383887092224885056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e118b24ce09343e6980ec18d2c690ea
+      internalID: 619524515240915102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 45
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779932b1a447d43848e58645f7ec7e59
+      internalID: 8203730442326083888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 45
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd26c91d44619489ba4482046f34a2eb
+      internalID: 3653491884321233088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e30d5b5a5aea4f5981d8523423255e0
+      internalID: 7834114152574954756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 45
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41c7a7d2a6dc403aaaeb748208a4329
+      internalID: 4568266707072316908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 45
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128301a8da873491e9b69b669521bf2d
+      internalID: 1284520619528157345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21aaf1e399264158b04774e1c4c98d4
+      internalID: -3116501922575668578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backhaus_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa776e983889495b9dad55f49fe48ec
+      internalID: 5378788886902271831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
